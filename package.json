@@ -1,6 +1,6 @@
 {
   "name": "@ali00209/jwt-decode",
-  "displayName": "Jwt Decode Yaak Plugin",
+  "displayName": "Jwt Decode",
   "description": "A plugin to simply decode jwt token",
   "homepage": "https://github.com/ali00209/yaak-jwt-decode-plugin.git",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git+https://github.com/ali00209/yaak-jwt-decode-plugin.git"
   },
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "build": "yaak plugin build",
     "dev": "yaak plugin dev"
